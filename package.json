@@ -1,6 +1,6 @@
 {
   "name": "print-hello-world-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just a test",
   "main": "index.js",
   "scripts": {
