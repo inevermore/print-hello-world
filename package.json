@@ -1,0 +1,22 @@
+{
+  "name": "print-hello-world-test",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inevermore/print-hello-world.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "zhangweigang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inevermore/print-hello-world/issues"
+  },
+  "homepage": "https://github.com/inevermore/print-hello-world#readme"
+}
